@@ -1,6 +1,0 @@
-=============== Dec 5, 2020 (PST) ===============
-18:28:59.837967 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
-18:28:59.840733 db@open opening
-18:28:59.841546 version@stat F·[] S·0B[] Sc·[]
-18:28:59.843012 db@janitor F·2 G·0
-18:28:59.843047 db@open done T·2.290519ms
